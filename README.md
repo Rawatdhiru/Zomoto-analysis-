@@ -1,5 +1,6 @@
 ANALYSIS – OPENING NEW RESTAURANT!
 
+
 Project-based on Excel 
 Analyzing Countries with Less Competition.
 States and Cities for opening new restaurants.
@@ -10,4 +11,5 @@ Competitors.
 Cuisines. 
 Restaurants in different price ranges.
 Dashboard.
+
 
